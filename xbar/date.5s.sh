@@ -7,6 +7,6 @@
 # <bitbar.desc>Simply run a Python script to detect an active meeting</bitbar.desc>
 
 pythonenv="/usr/local/opt/python@3.9/bin/python3.9"
-script="/Users/ferry.djaja/zoom.py"
+script="/Users/ferry/zoom.py"
 
 $pythonenv $script
