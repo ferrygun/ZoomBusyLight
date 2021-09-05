@@ -9,8 +9,8 @@ import time
 import os
 
 pnconfig = PNConfiguration()
-pnconfig.subscribe_key = "sub-c-ce7f4874-0d5e-11ec-9c1c-9adb7f1f2877"
-pnconfig.publish_key = "pub-c-d8499027-383c-40de-8ae5-934f6ed366b8"
+pnconfig.subscribe_key = ""
+pnconfig.publish_key = ""
 pnconfig.uuid = "myUniqueUUID"
 pubnub = PubNub(pnconfig)
 
